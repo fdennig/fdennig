@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Francis Dennig, an economist working mostly on climate policy questions
-- 👀 Most of my code is the the purpose of economic modelling of climate policy questions.
+- 👀 Most of my code is for the purpose of economic and financial modelling in focused on climate and energy.
 
 
 <!---
